@@ -1,0 +1,3 @@
+*shauryasingh@gmail.com*567895
+*cd "c:\Users\YASH RAJ SINGH\Desktop\shaurya\c++ project\" ; if ($?) { g++ login.c++ -o login } ; if ($?) { .\login }*cd "c:\Users\YASH RAJ SINGH\Desktop\shaurya\c++ project\" ; if ($?) { g++ login.c++ -o login } ; if ($?) { .\login }
+shaurya singh*shaurya@gmail.com*123456
